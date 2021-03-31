@@ -1,0 +1,28 @@
+User 
+	Accounts
+		email
+			18 applications
+		login 
+			24 applications 
+					42 pages
+		store 
+			18 applications
+		Store assistants
+			9 applications
+		Sadmin
+			15 applications
+
+
+
+
+
+	templatestags
+			ajax.py
+			autopriceupdate
+			filters
+			genfilter
+			models
+			navfilters
+			
+
+			

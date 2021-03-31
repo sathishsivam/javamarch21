@@ -1,0 +1,19 @@
+Software Core Applications  127
+
+sadmin		15 
+store   	18
+store assistant 9
+user store 	31
+user accounts	16+18
+admin		16 +4
+
+database db1.sqlite3
+
+
+
+
+
+
+
+
+	

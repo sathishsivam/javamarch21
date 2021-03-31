@@ -1,0 +1,36 @@
+
+	Vendor
+		Thank for your order 
+		Order Acceptance with Docket number	ven_acc
+		Order Cancellation			ven_rej
+		Your transaction was incomplete 	pending
+		transaction failure			failure
+		Order Delivery Succesfully 		delivery
+		Appointment received 			ba1
+		Appointment Cancelled			app2
+		Appointment Accepted 			app1
+		Transaction incomplete			abort
+		
+		
+	User
+		registration your account has been successfully created		regmail
+		password change 			passmail
+		forget password mail			fpassmail
+		Order Cancelled by the users		user_cancel
+		password change				chpwd
+
+
+
+	Admin
+		Profile Updated Succesfully			sp
+		Profile Updated Succesfully update account	sp1
+		Your Shop is now ready to use 			sp3
+
+
+
+
+		
+
+			 
+				
+				
